@@ -1,0 +1,8 @@
+agent:
+  enabled: true
+
+node_exporter:
+  enabled: true
+
+process_exporter:
+  enabled: true
